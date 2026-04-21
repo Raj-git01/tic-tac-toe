@@ -12,8 +12,8 @@ Java Tic-Tac-Toe project organized by use-case branches.
 - `usecase/uc6-computer-move`
 - `usecase/uc7-check-win-draw`
 - `usecase/uc8-main-game-loop`
-- `usecase/uc9-check-winner`
-- `usecase/uc10-check-draw`
+- `UC9`
+- `UC10`
 
 ## Notes
 
